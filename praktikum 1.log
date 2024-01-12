@@ -1,0 +1,2 @@
+﻿SOAL 2.obj : error LNK2005: main already defined in praktikum 1.obj
+C:\Users\inesr\source\repos\praktikum 1\x64\Debug\praktikum 1.exe : fatal error LNK1169: one or more multiply defined symbols found
